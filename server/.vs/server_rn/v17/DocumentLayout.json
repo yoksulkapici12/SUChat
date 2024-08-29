@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{700519FB-9EF9-4EB8-9E64-D6D7C601DB2E}|server_rn\\server_rn.csproj|c:\\users\\enes \u015Fen\\enessen_sen_enesozkan (2)\\enessen_sen_enesozkan\\server\\server_rn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700519FB-9EF9-4EB8-9E64-D6D7C601DB2E}|server_rn\\server_rn.csproj|solutionrelative:server_rn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700519FB-9EF9-4EB8-9E64-D6D7C601DB2E}|server_rn\\server_rn.csproj|C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700519FB-9EF9-4EB8-9E64-D6D7C601DB2E}|server_rn\\server_rn.csproj|solutionrelative:server_rn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700519FB-9EF9-4EB8-9E64-D6D7C601DB2E}|server_rn\\server_rn.csproj|C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{700519FB-9EF9-4EB8-9E64-D6D7C601DB2E}|server_rn\\server_rn.csproj|solutionrelative:server_rn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|server_rn||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "server_rn",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\server_rn.csproj",
+              "RelativeDocumentMoniker": "server_rn\\server_rn.csproj",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\server_rn.csproj",
+              "RelativeToolTip": "server_rn\\server_rn.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-16T20:54:50.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "server_rn\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\Form1.Designer.cs",
+              "RelativeToolTip": "server_rn\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-29T17:40:06.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\Form1.cs",
+              "RelativeDocumentMoniker": "server_rn\\Form1.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\Form1.cs",
+              "RelativeToolTip": "server_rn\\Form1.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAkwIsBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:40:06.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Enessen_sen_enesozkan (2)\\Enessen_sen_enesozkan\\server\\server_rn\\Form1.cs",
+              "RelativeDocumentMoniker": "server_rn\\Form1.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Desktop\\Enessen_sen_enesozkan\\server\\server_rn\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Enessen_sen_enesozkan\\server\\server_rn\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-29T17:40:06.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
